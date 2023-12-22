@@ -1,0 +1,24 @@
+{
+    "name": "monteirofutila/social-number",
+    "description": "É um pacote PHP para simplificar a formatação de números grandes para exibição ideal em plataformas de mídia social.",
+    "keywords": [
+        "social",
+        "number",
+        "format",
+        "abbreviate"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MonteiroFutila\\SocialNumber\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monteiro Futila",
+            "email": "monteirofutila@hotmail.com"
+        }
+    ],
+    "require": {}
+}
