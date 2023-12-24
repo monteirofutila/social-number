@@ -16,7 +16,7 @@ require_once 'vendor\autoload.php';
 
 use MonteiroFutila\SocialNumber\SocialNumber;
 
-echo SocialNumber::format(1560000, 2, false);     //1.56k
+echo SocialNumber::format(1560000, 2, false);     //1.56M
 ```
 
 ## Licença
